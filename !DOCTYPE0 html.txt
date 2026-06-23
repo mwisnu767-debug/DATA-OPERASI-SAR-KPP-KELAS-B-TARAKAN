@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dashboard Operasi SAR</title>
+</head>
+
+<body>
+
+<h1>Dashboard Operasi SAR Nasional</h1>
+
+<iframe
+src="https://datastudio.google.com/s/uPv527CAOzQ"
+width="100%"
+height="900">
+</iframe>
+
+</body>
+</html>
